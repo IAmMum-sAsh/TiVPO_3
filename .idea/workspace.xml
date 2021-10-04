@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32bff540-309f-4b7b-ab1e-36cac59c757f" name="Default Changelist" comment="tests">
+    <list default="true" id="32bff540-309f-4b7b-ab1e-36cac59c757f" name="Default Changelist" comment="music">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <updated>1633351980325</updated>
       <workItem from="1633351988243" duration="805000" />
       <workItem from="1633364376769" duration="689000" />
-      <workItem from="1633366636679" duration="324000" />
+      <workItem from="1633366636679" duration="1205000" />
     </task>
     <task id="LOCAL-00001" summary="init repo">
       <created>1633352133573</created>
@@ -90,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633364457940</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="music">
+      <created>1633367228695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633367228695</updated>
+    </task>
+    <task id="LOCAL-00005" summary="music">
+      <created>1633367240800</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633367240800</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,8 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init repo" />
-    <MESSAGE value="music" />
     <MESSAGE value="tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="tests" />
+    <MESSAGE value="music" />
+    <option name="LAST_COMMIT_MESSAGE" value="music" />
   </component>
 </project>
